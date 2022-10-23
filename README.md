@@ -1,11 +1,5 @@
 # Belly-Button-Analysis
 
-
-
-
-# Belly Button Biodiversity
-
-
 ![openingimage](https://github.com/Adpetfem83/Belly-Button-Analysis/blob/main/Images/Belly_Button.png)
 
 # Purpose
