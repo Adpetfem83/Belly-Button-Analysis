@@ -8,7 +8,8 @@
 
 ![openingimage](https://github.com/Adpetfem83/Belly-Button-Analysis/blob/main/Images/Belly_Button.png)
 
-#Purpose
+# Purpose
+
 The purpose of this project is to create an interactive dashboard, a creative visualization that offers interactivity which can help the audience better understand the data and draw the same conclusions as researchers and data analyst. The purpose of this research is to gather, identify, and analyze the biological footprint of individuals’ naval and their unique naval bacteria.
 The research and data file provided holds data of 153 individuals and their:
 
