@@ -5,17 +5,36 @@
 
 # Belly Button Biodiversity
 
-Build a webpage using `Plotly.js`, a Javascript visualization library to plot data from external files and/or web-sources into a bar, pie and bubble charts. Utilized `Javascript` functional programming and methods to create interactive features, such as buttons or drop down menus, build chart components and finally `HTML/Bootstrap` script tags to stylize and arrange the data to publish the results.
 
 ![openingimage](https://github.com/Adpetfem83/Belly-Button-Analysis/blob/main/Images/Belly_Button.png)
 
+#Purpose
+The purpose of this project is to create an interactive dashboard, a creative visualization that offers interactivity which can help the audience better understand the data and draw the same conclusions as researchers and data analyst. The purpose of this research is to gather, identify, and analyze the biological footprint of individuals’ naval and their unique naval bacteria.
+The research and data file provided holds data of 153 individuals and their:
+
+Unique and anonymous IDs
+Demographic details
+Belly button scrubbing frequency
+Belly button biological “footprint”
+Results
+Raw data from JavaScript array is now displayed in a dynamic dashboard with a pull down menu programmed to allow the user to explore. They can do a deep dive into their own results or compare to others. The dashboard can be found at the link that follows. Please try it on your own.
+
+Belly Button Biodiversity Interactive Dashboard:
+
 # Overview
 
-Many bacteria species are not well studied and many more are unknown. We are tasked to assist a **Rosa**, a biomedical researcher who is responsible to study and document these bacterias.  She is particularly interested in bacteria that synthesize proteins that taste like beef. Alternative meat companies have been successful in synthesizing this flavor profile using bacteria found in algae, and a few other organic matters. **Improbable Foods** is interested in finding the "perfect" flavor. Rosa believes that there might be a microorganism that can achieve the results that they are looking for. She theorizes that the ideal bacteria may be found in the human body, specifically the "belly button". In order to consolidate the data that has been collected, Rosa would like us to create a dashboard that can be accessed from anywhere. This webpage will be the main source for research team, as well as, the anonymous participants that are interested in knowing about the bacterias that have colonized in their belly buttons. To start:
+Background & the Process of Development
+In this development, we used JavaScript as the primary coding language along with Plotly.js library. The combination of the two allows Users to not be required to install additional programs, such as JavaScript, on their computers in order to run the code. JavaScript enables us to create visualizations that are attractive, accessible, and interactive.
 
-* Build the code in `Javascript` to read data file in `.json` format using `d3 (Data Driven Documents)`
-  * Create variables that will collect data such as `ID`,`Gender`,`Bacteria Name`, etc.
-* Develop chart properties to visualize:
+Resources
+The data for the table is stored in a JavaScript array or list named samples.json
+The table is built by inserting JavaScript into HTML page. charts.js.
+HTML is used to to build the webpage index.html.
+CSS and Bootstrap then builds and styles the page style.css.
+Fire fox Developer Tools are ideal to test the code as we progress through the development.
+Further we use a new Dependency named D3.
+Additionally, we deployed the final results of Belly Button Biodiversity Dashboard on GitHub, and eventually developed chart properties to visualize the following:
+
   * **Bar Chart**
   
 ![barchart](https://github.com/Adpetfem83/Belly-Button-Analysis/blob/main/Images/Bar_Top_Ten_Bacteria%20with_ID.png)
