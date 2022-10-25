@@ -7,10 +7,10 @@
 The aim of this project is to produce an interactive dashboard and a creative visualization that provide opportunity for the audience to better understand the data and draw the same inferences as researchers and data analyst. The purpose of this research is to gather, identify, and analyze the biological footprint of individuals’ naval and their unique naval bacteria.
 The information on the  data for the research provides details of 153 individuals and their:
 
-Unique and anonymous IDs
-Demographic details
-Belly button biological “footprint”
-Belly button scrubbing frequency
+Unique and anonymous IDs, 
+Demographic details, 
+Belly button biological “footprint”, 
+Belly button scrubbing frequency, 
 Results
 The raw data from JavaScript array is displayed in a dynamic dashboard with a pull down menu programmed to allow the user to explore. The users can do a deep dive into their own results or compare to others. The dashboard can be found at the link below:
 Published page (dashboard) can be access by clicking [here](https://adpetfem83.github.io/Belly-Button-Analysis/). 
