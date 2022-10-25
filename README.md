@@ -11,7 +11,8 @@ Unique and anonymous IDs,
 Demographic details, 
 Belly button biological “footprint”, 
 Belly button scrubbing frequency, 
-Results
+Results. 
+
 The raw data from JavaScript array is displayed in a dynamic dashboard with a pull down menu programmed to allow the user to explore. The users can do a deep dive into their own results or compare to others. The dashboard can be found at the link below:
 Published page (dashboard) can be access by clicking [here](https://adpetfem83.github.io/Belly-Button-Analysis/). 
 
